@@ -42,3 +42,5 @@ $ rails server
 
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
+
+プルリクエスト作成練習のため、コメントを追加
